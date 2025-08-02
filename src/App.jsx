@@ -5,7 +5,7 @@ function App() {
   const user = {
     name: "Axmed Axmedov",
     title: "Front-end Developer",
-    company: "vCard Solutions",
+    company: "MyQRHub",
     email: "axmedov@gmail.com",
     phone: "+994123456789",
     website: "https://axmed.com",
